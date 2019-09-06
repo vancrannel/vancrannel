@@ -1,0 +1,9 @@
+Ver : 55681
+--- Spesifikasi System ---
+OS : Microsoft Windows NT / BuildNumber:9200/ MajorVersion:6/ MinorVersion:2/ PlatformId:2/ CSDVersion:/ ServicePackMajor:0/ ServicePackMinor:0/ ProductType:1
+CPU : Unknown P6 family / ID:Intel Corporation /TYPE:0 /FamilyID:6 /ModelID:12 /Code:3
+Ram : Total:2047MB / Avail:2047MB / Load:20% 
+HDD : Total:243581MB / Remain:71059MB
+
+--- Info Error ---
+KREON Error : 
